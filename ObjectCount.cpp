@@ -1,4 +1,5 @@
 #include<bits/stdc++.h>
+using namespace std;
 class trial { 
     int code; 
     static int c; 
